@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.txt1{
+    margin-left: 550px;
+    margin-top: 100px;
+    color: red;
+    font-family: monospace;
+    font-size: 30px;
+}
+.yes{
+    position:absolute ;
+   width: 150px;
+   height: 50px;
+   background-color: red;
+   color:blue;
+   font-family: monospace;
+   font-size: 25px;
+   border: 4px solid blue;
+   border-radius: 10px;
+   transition: 0.5s;
+   margin-left: 450px;
+   margin-top: 50px;
+   
+
+   
+
+}
+a{
+    text-decoration: none;
+}
+.txt2{
+    color: red;
+    font-size: 40px;
+    font-family: monospace;
+    margin-left: 500px;
+    margin-top: 300px;
+}
+.yes:hover{
+    background-color:blue;
+    color:red;
+    border: 4px solid red;
+}
+.no{
+    width: 150px;
+    height: 50px;
+    background-color: red;
+    color:blue;
+    font-family: monospace;
+    font-size: 25px;
+    border: 4px solid blue;
+    border-radius: 10px;
+    transition: 0.5s;
+    margin-left: 700px;
+    margin-top: 50px;
+    
+    
+ 
+ }
+ .no:hover{
+     background-color:blue;
+     color:red;
+     border: 4px solid red;
+ }
